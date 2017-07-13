@@ -4,9 +4,10 @@
   },
   "lex": {
     "botName": "Viky",
-    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
-  },
+"initialText": ‘You can ask me for help you find information about movie, or weather. Just type \’movie’\ or \’weather’\.You also can click on the mic and say it.’,
+    "initialSpeechInstruction": Hello my name is Viky. Say \‘movie’\ or \‘weather’\ to   
+     get started.’ 
+},
   "ui": {
     "parentOrigin": "",
     "pageTitle": "Order Flowers Bot",
