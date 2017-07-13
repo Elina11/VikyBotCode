@@ -80,17 +80,17 @@ const configDefault = {
 
   lex: {
     // Lex bot name
-    botName: 'WebUiOrderFlowers',
+    botName: 'Viky',
 
     // Lex bot alias/version
     botAlias: '$LATEST',
 
-    // instruction message shown in the UI
-    initialText: 'You can ask me for help ordering flowers. ' +
-      'Just type "order flowers" or click on the mic and say it.',
-
+    /// instruction message shown in the UI
+    initialText: "You can ask me for help you find information about movie, or weather.'+
+    'Just type \’movie’\ or \’weather’\.You also can click on the mic and say it.',
     // instructions spoken when mic is clicked
-    initialSpeechInstruction: 'Say "Order Flowers" to get started',
+    initialSpeechInstruction: ' Hello my name is Viky. Say \‘movie’\ or \‘weather’\ to' +
+     'get started.'  ,
 
     // Lex initial sessionAttributes
     sessionAttributes: {},
@@ -142,10 +142,10 @@ const configDefault = {
     // chat window text placeholder
     textInputPlaceholder: 'Type here',
 
-    toolbarColor: 'red',
+    toolbarColor: 'blue',
 
     // chat window title
-    toolbarTitle: 'Order Flowers',
+    toolbarTitle: 'Viky Bot',
 
     // logo used in toolbar - also used as favicon not specificied
     toolbarLogo,
