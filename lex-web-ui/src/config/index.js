@@ -130,7 +130,7 @@ const configDefault = {
 
   ui: {
     // title of HTML page added dynamically to index.html
-    pageTitle: 'Order Flowers Bot',
+    pageTitle: 'Viky Bot',
 
     // when running as an embedded iframe, this will be used as the
     // be the parent origin used to send/receive messages
