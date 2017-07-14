@@ -80,17 +80,17 @@ const configDefault = {
 
   lex: {
     // Lex bot name
-    botName: 'Viky',
+    botName: 'WebUiViky',
 
     // Lex bot alias/version
     botAlias: '$LATEST',
 
     /// instruction message shown in the UI
-    initialText: "You can ask me for help you find information about movie, or weather.'+
-    'Just type \’movie’\ or \’weather’\.You also can click on the mic and say it.',
+    initialText: "You can ask me for help you find information about movie, or weather." +
+    "Just type ’movie’ or ’weather’.You also can click on the mic and say it.",
     // instructions spoken when mic is clicked
-    initialSpeechInstruction: ' Hello my name is Viky. Say \‘movie’\ or \‘weather’\ to' +
-     'get started.'  ,
+    initialSpeechInstruction: "Hello my name is Viky. Say ‘movie’ or ‘weather’ to" +
+     "get started."  ,
 
     // Lex initial sessionAttributes
     sessionAttributes: {},
