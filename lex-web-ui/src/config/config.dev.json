@@ -3,20 +3,19 @@
     "poolId": "us-east-1:d1f8cc6a-f855-45e9-92b8-90ace4cd1b9b"
   },
   "lex": {
-    "botName": “Viky”,
-    "initialText": "You can ask me for help with movies. Just type \”movie\” or click on the mic and say it.",
-    "initialSpeechInstruction": "Say ‘movie’ to get started."
+    "botName": "WebUiOrderFlowers",
+    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'I would like to Order Flowers' to get started."
   },
   "polly": {
     "voiceId": "Salli"
   },
   "ui": {
     "parentOrigin": "http://localhost:8080",
-    "pageTitle": “Viky Bot",
-    "toolbarTitle": “Viky Chatbot”
+    "pageTitle": "Order Flowers Bot",
+    "toolbarTitle": "Order Flowers"
   },
   "recorder": {
     "preset": "speech_recognition"
   }
 }
- 
