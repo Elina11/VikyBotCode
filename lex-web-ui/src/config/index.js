@@ -64,11 +64,11 @@ if (!envShortName) {
 }
 
 // eslint-disable-next-line import/no-dynamic-require
-//const configEnvFile = require(`./config.${envShortName}.json`);
+const configEnvFile = require(`./config.${envShortName}.json`);
 
 // default config used to provide a base structure for
 // environment and dynamic configs
-//const configDefault = {
+const configDefault = {
   // AWS region
   region: 'us-east-1',
 
@@ -80,7 +80,7 @@ if (!envShortName) {
 
   lex: {
     // Lex bot name
-    botName: 'WebUiViky',
+    botName: 'Viky',
 
     // Lex bot alias/version
     botAlias: '$LATEST',
