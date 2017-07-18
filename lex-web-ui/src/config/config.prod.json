@@ -3,16 +3,16 @@
     "poolId": "us-east-1:d1f8cc6a-f855-45e9-92b8-90ace4cd1b9b"
   },
    "lex": {
-    "botName": "WebUiOrderFlowers",
-    "initialText": "You can ask me for help to find info about movie. Just type \”movie\” or click on the mic and say it.",
-    "initialSpeechInstruction": "Say ‘movie’ to get started."
+    "botName": "WebUiViky,
+    "initialText": "You can ask me for help to find info about movie or book a flight. Just type \”movie\” or \”flight\” click on the mic and say it.",
+    "initialSpeechInstruction": "Say ‘movie’ or ‘book a flight’ to get started."
   },
   "polly": {
     "voiceId": "Salli"
   },
   "ui": {
     "parentOrigin": "",
-    "pageTitle": "Order Flowers Bot",
+    "pageTitle": “Viky Bot”,
     "toolbarTitle": “Viky Bot”
   },
   "recorder": {
